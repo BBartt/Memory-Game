@@ -23,7 +23,8 @@ body{
 	background: url(../img/karta.png);
 	background-size: 100% 100%;
 	float: left;
-
+	min-width: 80px;
+	min-height: 150px;
 	border: 5px solid #e9b64a;
 	border-radius: 4px;
 	cursor: default;
